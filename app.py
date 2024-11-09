@@ -54,7 +54,7 @@ st.set_page_config(page_title="VitalImage Analytics",page_icon=":robot:")
 st.image('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkszn9Inra6fS1IzxmBX5GdD8qJVCUEBUkg&s', width=200)
 
 # set the title
-st.title("Vital + Image Analytics")
+st.title("MEDICARE")
 
 # set the subtitle
 st.subheader("An web application that can help users to identify medical images ")
